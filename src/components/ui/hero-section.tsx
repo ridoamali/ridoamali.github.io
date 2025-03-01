@@ -20,7 +20,7 @@ export default function HeroSection() {
                             <span className="opacity-30 animate-dimmed [animation-delay:1400ms]">
                                 <span className="animate-hand-wave inline-block origin-[70%_70%] [animation-delay:2700ms]">👋</span> Hi, I&apos;m
                             </span>{" "}
-                            <LinkPreview url="#about" imageSrc="images/about.jpeg" isStatic>
+                            <LinkPreview url="#about" imageSrc="images/about.png" isStatic>
                                 <span className="text-cyan-400 opacity-30 animate-dimmed delay-500" onClick={() => lenis && lenis.scrollTo("#about", { offset: -100, easing: cubicBezier(0.65, 0, 0.35, 1), duration: 1 })}>
                                     Rido Amali.
                                 </span>
