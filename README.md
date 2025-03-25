@@ -38,11 +38,11 @@ cd portfolio
 3. Install dependencies:
 
 ```bash
-npm install
+pnpm install
 ```
 
 4. Start the development server:
 
 ```bash
-npm run dev
+pnpm run dev
 ```
