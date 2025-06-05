@@ -29,7 +29,7 @@ export default function HeroSection() {
                             <span className="opacity-30 animate-dimmed [animation-delay:1700ms]">A</span>{" "}
                             <LinkPreview url="#technologies" imageSrc="images/technologies.jpeg" isStatic>
                                 <span className="text-cyan-400 opacity-30 animate-dimmed [animation-delay:800ms]" onClick={() => lenis && lenis.scrollTo("#technologies", { offset: -100, easing: cubicBezier(0.65, 0, 0.35, 1), duration: 1 })}>
-                                    frontend developer,
+                                    Fullstack Developer,
                                 </span>
                             </LinkPreview>{" "}
                             <span className="opacity-30 animate-dimmed [animation-delay:2000ms]">who craft</span> <br className="hidden sm:block" />
@@ -40,7 +40,7 @@ export default function HeroSection() {
                             </LinkPreview>
                         </h1>
                     </div>
-                    <p className="hidden md:block lg:mt-4 font-semibold text-lg underline underline-offset-8 decoration-cyan-400 decoration-2 opacity-0 animate-fade-down [animation-delay:2500ms]">Fullstack Capable</p>
+                    <p className="hidden md:block lg:mt-4 font-semibold text-lg underline underline-offset-8 decoration-cyan-400 decoration-2 opacity-0 animate-fade-down [animation-delay:2500ms]">Laravel Capable</p>
                 </div>
 
                 <div className="absolute bottom-0 left-0 w-full flex justify-center pb-10 overflow-y-hidden" onClick={() => lenis && lenis.scrollTo("#about", { offset: -100, easing: cubicBezier(0.65, 0, 0.35, 1), duration: 1 })}>

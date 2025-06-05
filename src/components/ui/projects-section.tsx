@@ -69,4 +69,36 @@ export const projects = [
     tech: ['NextJS', 'TailwindCSS', 'Animate'],
     url: '/images/financerido.png',
   },
+  {
+    title: 'Chatbot Expense Tracker',
+    description:
+      'Chatbot Telegram to effortlessly record and manage their expenses syncronized with the Google Sheet.',
+    link: 'https://github.com/ridoamali/chatkeutelegolang',
+    tech: ['Golang', 'NodeJS', 'Sheet'],
+    url: '/images/chatbot2.png',
+  },
+  {
+    title: 'Wedding Invitation',
+    description:
+      'Wedding Invitation website integrated with Google Calendar, Qris Payment, and Google Map.',
+    link: 'https://wedding-invitation-new-eight.vercel.app/',
+    tech: ['NextJS', 'TailwindCSS', 'FramerMotion'],
+    url: '/images/wedding2.png',
+  },
+  {
+    title: 'Clone Eiger Website',
+    description:
+      'Clone of website eiger.id the outdoor brand.',
+    link: 'https://eiger-clone.vercel.app/',
+    tech: ['NextJS', 'TailwindCSS', 'FramerMotion'],
+    url: '/images/cloneeiger.png',
+  },
+  {
+    title: 'Fashion Store Website',
+    description:
+      'Display of products and their details, integrated with payment gateway.',
+    link: 'https://marketplace-fashion.vercel.app/',
+    tech: ['NextJS', 'TailwindCSS', 'FramerMotion'],
+    url: '/images/webfashion2.png',
+  },
 ];

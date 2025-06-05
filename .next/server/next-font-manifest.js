@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/Users/rido/Documents/GitHub/ridoamali.github.io/src/app/layout":["static/media/51620c4c525e73df-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/rido/Documents/GitHub/ridoamali.github.io/src/app/layout\":[\"static/media/70927c5ea44e6348-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
