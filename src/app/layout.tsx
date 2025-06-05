@@ -8,7 +8,7 @@ import SmoothScrolling from "@/components/ui/smooth-scroll";
 const wixMadeForDisplay = Wix_Madefor_Display({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-    title: "Rido Amali | Frontend Developer",
+    title: "Rido Amali | Fullstack Developer",
     description: "Rido Amali's web portfolio",
     icons: {
         icon: "/images/logo.png",
