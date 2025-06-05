@@ -75,7 +75,7 @@ export const projects = [
       'Chatbot Telegram to effortlessly record and manage their expenses syncronized with the Google Sheet.',
     link: 'https://github.com/ridoamali/chatkeutelegolang',
     tech: ['Golang', 'NodeJS', 'Sheet'],
-    url: '/images/chatbot2.png',
+    url: '/images/chatbot2.PNG',
   },
   {
     title: 'Wedding Invitation',

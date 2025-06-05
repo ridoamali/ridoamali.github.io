@@ -42,14 +42,6 @@ export default function FooterSection() {
 
                     <p className="mt-4">
                         Inspired by{" "}
-                        <Link href="https://fazzaamiarso-com-v3-svelte.vercel.app" target="_blank" className="text-white/70 font-medium hover:text-cyan-400 transition-all duration-150 ease-in-out">
-                            Fazza
-                        </Link>
-                        ,{" "}
-                        <Link href="https://brittanychiang.com" target="_blank" className="text-white/70 font-medium hover:text-cyan-400 transition-all duration-150 ease-in-out">
-                            Britanny
-                        </Link>
-                        ,{" "}
                         <Link href="https://aafrzl.my.id" target="_blank" className="text-white/70 font-medium hover:text-cyan-400 transition-all duration-150 ease-in-out">
                             Afrizal
                         </Link>

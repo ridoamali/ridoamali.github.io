@@ -30,6 +30,12 @@ export default function ContactSection() {
                         <CgArrowTopRight />
                     </span>
                 </Link>
+                <Link href={"https://wa.me/6285755667711?text=Halo%20Rido,%20Saya%20Tertarik%20untuk%20bekerja%20bersama%20Anda."} target="_blank" className="md:text-xl font-semibold tracking-wide flex gap-1 items-center group">
+                    WhatsApp
+                    <span className="text-xl md:text-2xl group-hover:-translate-y-1 group-hover:translate-x-1 transition-all duration-200 ease-in-out">
+                        <CgArrowTopRight />
+                    </span>
+                </Link>
             </div>
         </div>
     );
