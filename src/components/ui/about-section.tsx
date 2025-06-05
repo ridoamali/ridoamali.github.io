@@ -61,7 +61,7 @@ const AboutSection: React.FC = () => {
 
                 <div className="lg:w-1/3 flex justify-center items-center order-1 lg:order-2 mx-auto">
                     <div className="w-4/5 sm:w-1/2 md:w-1/3 lg:w-4/5">
-                        <Image src="/images/profile.jpg" height={1000} width={1000} className="rounded-xl" alt="Rivaldo Tandoko" />
+                        <Image src="/images/profile.JPG" height={1000} width={1000} className="rounded-xl" alt="Rivaldo Tandoko" />
                     </div>
                 </div>
             </div>
